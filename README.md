@@ -7,12 +7,8 @@
 ---
 
 ## 🔭 What I’m Currently Working On
-- 🖥️ **Collaborative Video Editing Platform**  
-  Building a platform for editors to upload raw files, collaborate in real-time, and manage **version control with merge conflict resolution**.
-- 🎶 **AI-Generated Soundscapes**  
-  Creating algorithms to generate music & soundscapes inspired by **local landscapes (villages, forests, mountains)**.
-- 🌐 **Responsive Dashboards**  
-  Adapting Next.js-based dashboards into **Vite + React** for modern web apps.
+- 🖥️ **Segmentation based chat context understanding and retrieving platform**
+  I am working to build an LLM based solution context understanding model which learns from chat conversations from various different chat applications and when I enquire any keyword it uses a RAG model to retrive chats related to that keyword.
 
 ---
 
