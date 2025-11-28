@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 **Languages**  
-💻 Java | JavaScript | TypeScript | C | Python
+💻 Java | JavaScript | C | Python
 
 **Frameworks & Libraries**  
 ⚡ React | OpenCV | TensorFlow | Scikit-learn  
