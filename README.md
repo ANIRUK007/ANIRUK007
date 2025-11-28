@@ -17,10 +17,10 @@
 💻 Java | JavaScript | TypeScript | C | Python
 
 **Frameworks & Libraries**  
-⚡ React | Node.js | Express | Tailwind CSS | OpenCV | TensorFlow | Scikit-learn  
+⚡ React | OpenCV | TensorFlow | Scikit-learn  
 
 **Tools & Platforms**  
-🔧 Git & GitHub | VS Code | Vite  
+🔧 Git & GitHub | VS Code
 
 **Databases**  
 🗄️ MySQL | MongoDB  
@@ -29,7 +29,6 @@
 
 ## 🏆 Achievements
 - 🥇 Selected in **Smart India Hackathon 2025 (Internal Hackathon)** for innovative project solutions.  
-- 💡 Built a **GSM + GPS-based tracking system** for campus security using Python & camera integrations.  
 - 📊 Conducted research on **formal verification methods** including **PSS**, **SMT**, and **δ-decidability**.
 
 ---
@@ -37,7 +36,6 @@
 ## 📚 Research & Academic Interests
 - **Artificial Intelligence & Machine Learning**: Core AI concepts, neural networks, and soundscape generation.  
 - **Formal Verification**: SAT/SMT solving, Boolean satisfiability, and software verification frameworks.  
-- **Networking & Security**: CCNA (Cisco Certified Network Associate) fundamentals.
 
 ---
 
